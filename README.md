@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **pavanteja.sripati@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
@@ -17,3 +17,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavantejasripati&show_icons=true&locale=en" alt="pavantejasripati" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavantejasripati&" alt="pavantejasripati" /></p>
+<h3 align="left">Connect with me:</h3>
